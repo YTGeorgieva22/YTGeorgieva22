@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:badges-->
+[![Networking Academy Learn-A-Thon 2023](https://images.credly.com/size/110x110/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png)](http://www.credly.com/badges/c30a179c-1385-48de-831a-2975ba2962d9 "Networking Academy Learn-A-Thon 2023")
 [![IT Specialist - HTML and CSS](https://images.credly.com/size/110x110/images/e2dc688d-de61-44a5-81af-ee96f117a211/ITS-Badges_HTML-and-CSS_1200px.png)](http://www.credly.com/badges/7b60f7c3-92e8-4c91-86ab-e56266d78ed7 "IT Specialist - HTML and CSS")
 [![Microsoft Office Specialist: Word Associate (Office 2019)](https://images.credly.com/size/110x110/images/b9912ce7-7c17-40bc-afbb-ca4251ea1416/MOS_Word.png)](http://www.credly.com/badges/2d8c0950-4a6d-49cb-9037-45563c71d385 "Microsoft Office Specialist: Word Associate (Office 2019)")
 [![Adobe Certified Professional in Visual Design](https://images.credly.com/size/110x110/images/19d96e55-f15c-44d9-9568-43f83505bd5b/Adobe_Certified_Professional_Visual_Design_digital_badge.png)](http://www.credly.com/badges/966bec2f-8d6f-4479-8089-ba3f1ede4ac2 "Adobe Certified Professional in Visual Design")
